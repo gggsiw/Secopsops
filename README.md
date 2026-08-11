@@ -188,10 +188,9 @@ Open → `http://localhost:7860/play`
 
 <div align="center">
 
-## 🧑‍💻 Team
+## 🧑‍💻 Author
 
 **Krishna Sharma**  
-**Arjun Bohara**
 
 ---
 
